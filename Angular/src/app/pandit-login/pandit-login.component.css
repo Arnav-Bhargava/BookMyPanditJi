@@ -1,0 +1,44 @@
+body{
+    background-image: url('/assets/images/123.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+}
+
+.submit{
+    background-color: chocolate;
+      color: black;
+      padding: 8px 12px;
+      text-align: center;
+      display: inline-block;
+      font-size: 20px;
+      margin: 3px 2px;
+      cursor: pointer;
+      width: 25%;
+      }
+      #h1{
+        padding: 10px;
+          text-align: center;
+          background: firebrick;
+          color: black;
+          font-size: 35px;
+          text-decoration: underline;
+             
+        }
+
+        #nm,#pass{
+            font-size:20px;
+            }
+            
+            a:link, a:visited {
+              background-color: firebrick;
+              color: white;
+              padding: 15px 25px;
+              text-align: center;
+              text-decoration: underline;
+              display: inline-block;
+            }
+            
+            a:hover, a:active {
+              background-color: orange;
+            }
